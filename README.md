@@ -15,11 +15,17 @@ It includes:
 genai_project/
 │
 ├── config.py # Configuration settings
+
 ├── dataset_utils.py # Dataset loading and utilities
+
 ├── fine_tuning.py # Fine-tuning workflow
+
 ├── metrics.py # Metrics calculation and logging
+
 ├── utils.py # Utility functions for CLI and headers
+
 ├── main.py # Main pipeline orchestrator
+
 └── README.md # Project documentation
 
 
