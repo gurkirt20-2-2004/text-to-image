@@ -13,7 +13,8 @@ It includes:
 ## Project Structure
 
 genai_project/
-│
+
+
 ├── config.py # Configuration settings
 
 ├── dataset_utils.py # Dataset loading and utilities
