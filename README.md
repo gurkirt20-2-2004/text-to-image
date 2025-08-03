@@ -83,6 +83,19 @@ genai_project/
 ✅ **Ready for Real Data:** Replace placeholder datasets and simulation functions with real data pipelines and model training loops seamlessly.
 
 ---
+## Output
+
+<img width="577" height="422" alt="Image" src="https://github.com/user-attachments/assets/4d7d430e-6ab6-47e1-9732-4ff41bf03f73" />
+
+
+<img width="557" height="410" alt="Image" src="https://github.com/user-attachments/assets/d224e81f-b5db-4310-800b-f1854b019428" />
+
+
+<img width="517" height="408" alt="Image" src="https://github.com/user-attachments/assets/14c1109c-a9fd-4b31-915b-cdb88a2cab85" />
+
+
+<img width="403" height="395" alt="Image" src="https://github.com/user-attachments/assets/5dabaedc-6039-473d-890a-a15f1e157a82" />
+
 
 ## How to Run
 
